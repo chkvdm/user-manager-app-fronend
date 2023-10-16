@@ -1,0 +1,13 @@
+.control-panel {
+  display: flex;
+  justify-content: space-between;
+}
+
+.status-btn button {
+  margin-right: 0.5em;
+}
+
+.delete-button {
+  margin-left: auto;
+  margin-right: 2em;
+}

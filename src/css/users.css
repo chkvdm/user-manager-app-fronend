@@ -1,0 +1,8 @@
+.account-container {
+  height: 100vh;
+  width: 80vw;
+}
+
+.account-container h1 {
+  color: rgb(77, 1, 77);
+}
